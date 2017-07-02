@@ -28,3 +28,17 @@
 - Mr Kennedy rounded up the class by teaching us mobile responsiveness in website development.
 - And that's all for the day.
 ======================================================================
+
+### Saturday July 1st 2017
+- Watched few video tutorials given to us by Mr Ebuka
+- Read Techpoint.ng Blog and Techrunch.
+
+=======================================================================
+
+### Sunday July 2nd 2017
+- Did some touch typing practice
+- Continued the video tutorials
+- Read few articles on Blockchain usecases
+- And that was all.
+
+=========================================================================
