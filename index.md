@@ -42,3 +42,14 @@
 - And that was all.
 
 =========================================================================
+
+### Monday July 3rd 2017
+- Review of what we learnt from the Video tutorials given to us to watch.
+- In the Absence of no projector, we decided on doing collaborative programming by using an online colloborative text editor.
+- We settled for SyncFiddle after trying out JsFiddle, which gave some issues.
+- We learnt how to output the data collected from a form on the screen, without having to submit the form to a database using Javascript (Document Object Model) and Event Listener.
+- Learn what Jquery was and how it could save us the stress of writing long lines of code (since it is minified JavaScript).
+- Implemented it on our piece of code.
+- We outputed the inputs given to the form again, but this time using  Jquery.
+- And that was all.
+============================================================================
