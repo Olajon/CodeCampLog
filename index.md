@@ -53,3 +53,14 @@
 - We outputed the inputs given to the form again, but this time using  Jquery.
 - And that was all.
 ============================================================================
+
+### Tuesday July 4th 2017
+- Our Tutor checked our individual knowledge of JavaScript was not impressed at our progress.
+- We were all asked to login into our freeCodeCamp account to take the JavaScript challenge.
+- I got upto functions in the JavaScript Challenge (on freeCodeCamp).
+=============================================================================
+
+### Wednesday July 5th 2017
+- We all asked to pitch our ideas(The personal projects we intend building) to our tutor (Mr Ebuka).
+- Read few articles on User Interface Design and User Experience.
+=============================================================================
