@@ -61,6 +61,17 @@
 =============================================================================
 
 ### Wednesday July 5th 2017
-- We all asked to pitch our ideas(The personal projects we intend building) to our tutor (Mr Ebuka).
+- We were all asked to pitch our ideas(The personal projects we intend building) to our tutor (Mr Ebuka).
 - Read few articles on User Interface Design and User Experience.
 =============================================================================
+
+### Thursday July 6th 2017
+- It was all watching of video(s) all through(Learnt about functions and Scopes).
+- We pitch our ideas again, but this time to Mr Oriyomi and Exec of StoneBridge Hub.
+===============================================================================
+### Monday July 11th 2016.
+- We all continued with the repl exercises.
+- learnt about the for in loop and how it is implemented.
+- learnt about the learnt the .filter() method in Arrays
+- We all continued with our repl exercises.
+================================================================================
