@@ -69,9 +69,18 @@
 - It was all watching of video(s) all through(Learnt about functions and Scopes).
 - We pitch our ideas again, but this time to Mr Oriyomi and Exec of StoneBridge Hub.
 ===============================================================================
-### Monday July 11th 2016.
+### Monday July 10th 2016.
 - We all continued with the repl exercises.
 - learnt about the for in loop and how it is implemented.
 - learnt about the learnt the .filter() method in Arrays
 - We all continued with our repl exercises.
 ================================================================================
+### Tuesday July 11th 2016.
+- Wrote some functions we tilted JsUtility
+- Installed Node.js and npm
+- Used Node.js to execute a few of the function in our JsUtility file.
+- Used the naija-phone-number module from npm
+- Continued my repl exercises
+- That was all.
+================================================================================
+
