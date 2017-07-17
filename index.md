@@ -85,7 +85,7 @@
 ================================================================================
 ### Wednesday July 12th 2017
 - I rewatched videos on Javascript basics.
-- Dis some html and css paractice.
+- Did some html and css paractice.
 ================================================================================
 ### Thursday July 13th 2017
 - Continued with my videos on Javacript basics
@@ -98,4 +98,10 @@
 - Read some few articles on web design from creative bloq
 - Designed some few stuffs 
 - Rebuilt the Todd App with Olumide, Daniel and Chibaba (Wasn't completed though)
+=================================================================================
+### Monday July 17th 2017
+- We did some repl classes 
+- We programmed web servers with Express Js (A minimalist web framework for servers)
+- Learnt about routing in express js
+- Used Express Js to render our Todo-App.
 
