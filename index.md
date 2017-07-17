@@ -96,5 +96,6 @@
 ===============================================================================
 ### Saturday July 15th 2017
 - Read some few articles on web design from creative bloq
+- Designed some few stuffs 
 - Rebuilt the Todd App with Olumide, Daniel and Chibaba (Wasn't completed though)
 
