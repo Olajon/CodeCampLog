@@ -69,13 +69,13 @@
 - It was all watching of video(s) all through(Learnt about functions and Scopes).
 - We pitch our ideas again, but this time to Mr Oriyomi and Exec of StoneBridge Hub.
 ===============================================================================
-### Monday July 10th 2016.
+### Monday July 10th 2017.
 - We all continued with the repl exercises.
 - learnt about the for in loop and how it is implemented.
 - learnt about the learnt the .filter() method in Arrays
 - We all continued with our repl exercises.
 ================================================================================
-### Tuesday July 11th 2016.
+### Tuesday July 11th 2017.
 - Wrote some functions we tilted JsUtility
 - Installed Node.js and npm
 - Used Node.js to execute a few of the function in our JsUtility file.
@@ -83,4 +83,18 @@
 - Continued my repl exercises
 - That was all.
 ================================================================================
+### Wednesday July 12th 2017
+- I rewatched videos on Javascript basics.
+- Dis some html and css paractice.
+================================================================================
+### Thursday July 13th 2017
+- Continued with my videos on Javacript basics
+================================================================================
+### Friday July 14th 2017
+- Reveiwed the Todo App built during the course of my absence on Wedneday and thursday
+- Continued my repl classes
+===============================================================================
+### Saturday July 15th 2017
+- Read some few articles on web design from creative bloq
+- Rebuilt the Todd App with Olumide, Daniel and Chibaba (Wasn't completed though)
 
