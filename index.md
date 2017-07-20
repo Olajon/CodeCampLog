@@ -104,4 +104,13 @@
 - We programmed web servers with Express Js (A minimalist web framework for servers)
 - Learnt about routing in express js
 - Used Express Js to render our Todo-App.
-
+===================================================================================
+### Tuesday July 18th 2017
+- It was time to use Express to manage the backend of our application.
+- Express was used to manage our app states.
+- Watched a few videos on Web Layout Design
+===================================================================================
+### Wednesday July 19th 2017
+- Read a Few articles on Css learnt that it is not good to use Import for importing fonts,
+rather it is good to have as many link tag as possible in your html when importing fonts
+- Also learnt that the default HTML structure has a  bit of responsiveness.
