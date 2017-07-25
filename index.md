@@ -114,3 +114,9 @@
 - Read a Few articles on Css learnt that it is not good to use Import for importing fonts,
 rather it is good to have as many link tag as possible in your html when importing fonts
 - Also learnt that the default HTML structure has a  bit of responsiveness.
+====================================================================================
+### Tuesday 25th 2017
+- Worked on the frontend of KodedLand Webapp.
+- Express was used to manage the webapp(Express was our server)
+- Did some templating with EJS (Embeded Javascript)
+- And that was all.
