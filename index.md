@@ -120,3 +120,9 @@ rather it is good to have as many link tag as possible in your html when importi
 - Express was used to manage the webapp(Express was our server)
 - Did some templating with EJS (Embeded Javascript)
 - And that was all.
+=====================================================================================
+### Wednesday  9/8/2017
+- Bought a domain name for a friend (pcgfoundation.org.ng).
+- Designed some flyers for The Potter's Children Global Foundation.
+- Designed my Church Monthly Bulletin.
+- Thats all there was no coding all through.
